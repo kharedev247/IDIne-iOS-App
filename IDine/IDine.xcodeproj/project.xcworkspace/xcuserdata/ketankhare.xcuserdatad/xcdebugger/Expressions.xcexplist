@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CartViewController viewWillAppear:]:CartViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Order.cartArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "Order.cartArray[0]">
+            </PersistentString>
+            <PersistentString
+               value = "[Order totalOfOrders]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ItemDetailViewController addQuantityButtonClick:]:ItemDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Order.cartArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CartViewController addBtnClicked:]:CartViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ItemDetailViewController removeQuantityButtonClick:]:ItemDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Order.cartArray.count">
+            </PersistentString>
+            <PersistentString
+               value = "Order.cartArray[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Order addItem:]:Order.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cartArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CartViewController viewDidLoad]:CartViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "Order.cartArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
